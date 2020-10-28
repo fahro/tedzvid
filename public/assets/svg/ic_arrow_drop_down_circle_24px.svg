@@ -1,3 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
-  <path id="ic_arrow_drop_down_circle_24px" d="M15,0A15,15,0,1,0,30,15,15.005,15.005,0,0,0,15,0Zm0,18L9,12H21Z" transform="translate(30) rotate(90)" fill="#92623c"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"><path id="ic_arrow_drop_down_circle_24px" fill="#92623c" d="M15,0A15,15,0,1,0,30,15,15.005,15.005,0,0,0,15,0Zm0,18L9,12H21Z" transform="translate(30) rotate(90)"/></svg>
